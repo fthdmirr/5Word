@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233452586570",
+    "project_id": "fiveword-50130",
+    "storage_bucket": "fiveword-50130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233452586570:android:69caf13bdaceef694388b3",
+        "android_client_info": {
+          "package_name": "com.fthdmirr.fiveword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233452586570-vudegvfveo6ui3f42dpib29tem185222.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fthdmirr.fiveword",
+            "certificate_hash": "05b43c3bf188277b12731f5f4645b0e2e08c8be9"
+          }
+        },
+        {
+          "client_id": "233452586570-1tss5a92qjf1kv1kiloosi95ubt02ak1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9jDM1cNUQ1a7ZH4a6CcpP-Z5sUQP_WV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233452586570-1tss5a92qjf1kv1kiloosi95ubt02ak1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
